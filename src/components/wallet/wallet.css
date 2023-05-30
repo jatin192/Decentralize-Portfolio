@@ -1,0 +1,66 @@
+.header a{
+   text-decoration: none;
+   color: white;
+
+}
+.header {
+    width: 100%;
+    height: 60px;
+    /* background-color:rgb(33, 33, 33); */
+    background-color:rgb(26, 25, 25);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 13px;
+
+    /* border-bottom: 1px solid greenyellow; */
+    
+
+}
+
+.connectBTN {
+    width: 200px;
+    height: 38px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(87, 182, 15);
+    font-weight: 400;
+    background-color:rgb(54, 53, 53);
+    border: 2px solid  rgb(87, 182, 15);
+    border-radius: 20px 0 20px 0px ;
+    
+}
+a:hover{
+    color: white !important;
+}
+.connectBTN:hover{
+    color: white;
+    background-color: solid green;
+}
+.class_polygon
+    {
+        color: rgb(137, 55, 172);
+        
+    }
+/* =========media querries========== */
+@media screen and (max-width: 420px) {
+
+    .header {
+        justify-content: center;
+        padding-right: 0px;
+        padding-left: 0px;
+        gap: 30px;
+    }
+    .connectBTN {
+        width: 130px;
+        height: 32px;
+        font-size: 12px;
+    }
+    .connectBTN:hover{
+        color: rgb(247, 243, 240);
+        background-color: var(--color-bg);
+    }
+    
+}

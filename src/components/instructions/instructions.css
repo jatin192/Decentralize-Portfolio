@@ -1,0 +1,42 @@
+.custom-modal {
+    /* Center the modal vertically and horizontally */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .custom-modal .modal-content {
+    /* Add custom styles to the modal content */
+    background-color: #fff;
+    border-radius: 8px;
+
+  }
+  
+  .custom-modal .modal-header {
+    /* Add custom styles to the modal header */
+    background-color: #17ba17;
+    height: 88px; 
+  }
+  
+  .custom-modal .modal-body {
+    /* Add custom styles to the modal body */
+    padding: 18px;
+    height: 430px; 
+    
+  }
+  
+  .custom-modal .modal-footer {
+    /* Add custom styles to the modal footer */
+    background-color: #4b5057;
+    height: 60px; 
+    
+    
+  }
+  .class_2 {
+    /* Remove the hover effect on the link */
+    pointer-events:painted;
+  }
+  .class_2:hover {
+    cursor:pointer;
+    background-color:blue
+  }
