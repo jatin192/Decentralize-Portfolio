@@ -1,20 +1,15 @@
 # Decentralize-Portfolio
 Site live at: https://blockchain192.netlify.app/ 
 #
-Portfolio Creation:Decentralized Portfolio is a DApp (decentralized application) developed on the Ethereum blockchain. Its purpose is to enable users to create and manage their digital portfolios in a secure, transparent, and censorship-resistant manner. The portfolio data is stored on the Ethereum blockchain, guaranteeing data integrity, immutability, and resistance to censorship
+- Decentralized Portfolio is a DApp (decentralized application) developed on the Ethereum blockchain. 
+- Its purpose is to enable users to create and manage their digital portfolios in a secure, transparent, and censorship-resistant manner. 
+- The portfolio data is stored on the Ethereum blockchain, guaranteeing data integrity, immutability, and resistance to censorship
 
 
 
 
 
 https://github.com/jatin192/Decentralize-Portfolio/assets/73174196/c159c255-af13-40c2-ac64-7a20876198ff
-
-
-
-
-#
-# Instructions
-![image](https://github.com/jatin192/Decentralize-Portfolio/assets/73174196/00c79c9c-ae9a-4976-a9b0-ac8f2e91575c)
 
 #
 # use Polygon Mumbai Test Network on Metamask
