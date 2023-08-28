@@ -56,12 +56,9 @@ Open your browser and visit http://localhost:5173 to access the Decentralize Por
 # Acknowledgements
 Decentralize Portfolio is built using the following technologies:
 
+- [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/) -JavaScript library for interacting with Ethereum.
 - [Pinata](https://www.pinata.cloud/) - Pinata is an IPFS pinning service that makes IPFS easy for creators
 - [Hardhat](https://hardhat.org/) - Hardhat is a development environment for Ethereum software
 - [Solidity](https://docs.soliditylang.org/) - The smart contract programming language for Ethereum.
 - [Metamask](https://metamask.io/)  - MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
 - [React](https://react.dev/) -React is used for building interactive user interfaces and web applications quickly and efficiently.
-
-•Web3.js - JavaScript library for interacting with Ethereum.
-
-•Metamask
